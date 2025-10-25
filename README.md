@@ -81,10 +81,8 @@ These are untested now.  See run-news.bat
 
 ## 🧭 Examples
 ### ALL outputs (.html, .json, .csv, .md)
-python top_news_aggregator.py --include-world --include-us --include-ai --all-formats
-
 ```
-python top_news_aggregator.py --include-world --include-us --include-ai --format html --output-file top_news.html
+python top_news_aggregator.py --include-world --include-us --include-ai --all-formats
 ```
 
 ### Disable AI-first
